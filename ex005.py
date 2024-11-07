@@ -1,4 +1,4 @@
-#faça um programa que leia um num inteiro o seu sucessecor e antecessor.
+#faça um programa que leia um num inteiro o seu sucessor e antecessor.
 
 n=int(input('digite um número: '))
 s=n+1
